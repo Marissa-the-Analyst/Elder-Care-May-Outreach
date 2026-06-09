@@ -1,6 +1,9 @@
 # Elder-Care-May-Outreach
 I built a dynamic report to identify U.S.-based patients aged 70+ with May 2025 appointments. Using Excel functions (FILTER, CHOOSECOLS, SORT), I created a updatable system that streamlines the "Supporting Our Elders" outreach program, ensuring the clinic can efficiently coordinate card orders and patient engagement.
 
+<img width="690" height="476" alt="image" src="https://github.com/user-attachments/assets/5bbc4d70-360b-43ac-96d7-55c66605227d" />
+
+
 # Business Question
 -	Can you get me the May appointments for the “Supporting Our Elders” program? I need to order the “Thank You” cards to send out to our 70+ year olds patients? Remember just the US branches.
 
